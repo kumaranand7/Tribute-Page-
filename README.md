@@ -1,1 +1,1 @@
-# tributee
+# tribute
